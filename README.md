@@ -28,7 +28,7 @@
 <img align="left" alt="Excel" width="50px" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" />
 <img align="left" alt="Powerpoint" width="50px" src="https://logodownload.org/wp-content/uploads/2020/04/microsoft-powerpoint-logo-0.png" />
 <img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Canva" width="45px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2020%2F11%2Fcanva-logo-3.png&f=1&nofb=1" />
+<img align="left" alt="Photoshop" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/2101px-Adobe_Photoshop_Express_logo.svg.png" />
 <br />
 <br />
 
@@ -94,27 +94,31 @@ Anadolu Üniversitesi, Eskişehir (Türkiye)
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Sentifikalar </summary>
   
-04/2021	Veri Bilimi için Python
-Udemy
--
-04/2021	Ustazy English Grammar
-Udemy
--
-04/2021	Gönüllü Yaratıcı Drama Eğitmenliği Sentifikası
-European Solidarity Corps for Youth (ESC4Y)
+  -<b>Veri Bilimi için Python</b>
+  
+      Udemy /  04/2021
+  
+  -<b>Ustazy English Grammar</b>
+  
+      Udemy /   04/2021
+  
+  -<b>Gönüllü Yaratıcı Drama Eğitmenliği Sentifikası</b>
+  
+      European Solidarity Corps for Youth (ESC4Y) / 04/2021
 
-07/2021	Yaratıcı Drama Eğitmenliği 1-2-3-4-5 Aşama
-Çağdaş Drama Derneği
+  -<b>Yaratıcı Drama Eğitmenliği 1-2-3-4-5 Aşama </b>
+  
+      Çağdaş Drama Derneği /  07/2021	
 
 
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Yabancı Dil </summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://img.shields.io/amo/rating/E?color=4&label=%C4%B0NG%C4%B0L%C4%B0ZCE&style=for-the-badge" />
 
 </details>
 
