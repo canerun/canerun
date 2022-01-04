@@ -34,7 +34,7 @@
 
 ---
 
-### 📺 İş Tecrübesi
+### <img align="left" alt="pc" width=25 src="https://github.githubassets.com/images/icons/emoji/unicode/23f1.png" /> İş Tecrübesi
 
 
 ### Veri Analisti
