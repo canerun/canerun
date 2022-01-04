@@ -70,23 +70,23 @@
 ### 📕 Eğitim
 
 
-### Bilgisayar Programcılığı
+###  <img align="left" alt="pc" width=20 src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" /> Bilgisayar Programcılığı
 Çayırova Anadolu Ticaret Meslek Lisesi, Kocaeli (Türkiye)
 
 09/2007–06/2011 
 
 
-### Bilgisayar Programcılığı
+### <img align="left" alt="pc" width=20 src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" /> Bilgisayar Programcılığı
 Akdeniz Üniversitesi, Antalya (Türkiye)
 
 09/2011–06/2013
 
-### İstatistik
+### <img align="left" alt="Stats" width=20 src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" />İstatistik
 Ankara Üniversitesi, Ankara (Türkiye)
 
 09/2014–07/2018	
 
-### Yönetim Bilişim Sistemleri
+### <img align="left" alt="Stats" width=20 src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" /> Yönetim Bilişim Sistemleri
 Anadolu Üniversitesi, Eskişehir (Türkiye)
 
 09/2014–Devam ediyor
