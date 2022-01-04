@@ -1,4 +1,6 @@
-# Merhaba, Ben Caner - [LinkedIn] 👋 
+# Merhaba, Ben Caner 👋 
+<a href="mailto:cner.un@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/canerun"><img src="https://img.shields.io/badge/LinkedIn-%23DD0031.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white&color=blue"/></a>
 
 
 
@@ -12,9 +14,6 @@
 - Topluluklara karşı hitap etme
 
 
-### İletişim
-<a href="mailto:cner.un@gmail.com?"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/></a>
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 
 
 <br />
@@ -45,7 +44,6 @@
   18/04/2021–Devam Ediyor
   
 ---
-
 ### Proje Sorumlusu
   TÜBİTAK Marmara Araştırma Merkezi, Kocaeli (Türkiye)
   
@@ -53,15 +51,13 @@
   01/10/2018–15/01/2020	
   
 ---
-
 ### Veri Analisti
   PiyonLab Yazılım, Kocaeli (Türkiye)
   
   
   11/09/2016–13/12/2018
-  
----
-
+ 
+ ---
 ### Veri Tabanı Programcısı
   Kardelen Yazılım, Kocaeli (Türkiye)
   
@@ -100,13 +96,18 @@ Anadolu Üniversitesi, Eskişehir (Türkiye)
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/15) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. 🗣 Commented on [#15](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/15) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. ❗️ Closed issue [#13](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/13) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. 🗣 Commented on [#13](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/13) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. 🗣 Commented on [#12](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/12) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-<!--END_SECTION:activity-->
+04/2021	Veri Bilimi için Python
+Udemy
+-
+04/2021	Ustazy English Grammar
+Udemy
+-
+04/2021	Gönüllü Yaratıcı Drama Eğitmenliği Sentifikası
+European Solidarity Corps for Youth (ESC4Y)
+
+07/2021	Yaratıcı Drama Eğitmenliği 1-2-3-4-5 Aşama
+Çağdaş Drama Derneği
+
 
 </details>
 
