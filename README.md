@@ -4,7 +4,7 @@
 
 
 
-## Veri Analistiyim, Drama Eğitmeni ve Tiyatro Oyuncusuyum !!
+## Veri Analisti, Drama Eğitmeni ve Tiyatro Oyuncusuyum !!
 
 ### Yetkinlikler
 - Liderlik ( Tiyatro Topluluğunda Başkanlığı)
