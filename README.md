@@ -118,7 +118,7 @@ Anadolu Üniversitesi, Eskişehir (Türkiye)
 <details>
   <summary>:zap: Yabancı Dil </summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://img.shields.io/amo/rating/E?color=4&label=%C4%B0NG%C4%B0L%C4%B0ZCE&style=for-the-badge" />
+ 
 
 </details>
 
