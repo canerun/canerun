@@ -36,12 +36,19 @@
 
 ### <img align="left" alt="pc" width=25 src="https://github.githubassets.com/images/icons/emoji/unicode/23f1.png" /> İş Tecrübesi
 
+### Veri Analist Uzmanı
+  Dem İlaç, İstanbul (Türkiye)
+  
+
+  23/05/2022–Devam Ediyor
+ 
+ ---
 
 ### Veri Analisti
   Anka Danışma Grubu, İstanbul (Türkiye)
   
 
-  18/04/2021–Devam Ediyor
+  18/04/2021–01/02/2021
   
 ---
 ### Proje Sorumlusu
