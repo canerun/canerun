@@ -41,15 +41,15 @@
  
 -	Technology;
 
-      •	Microsoft SQL Server
+      *	Microsoft SQL Server 
 
-      •	PowerBI
+      *	PowerBI
 
-      •	Python
+      *	Python
 
-      •	Microsoft Excel
+      *	Microsoft Excel
 
-      •	Microsoft Powerpoint
+      *	Microsoft Powerpoint
 
 -	Database Desing
 
@@ -75,7 +75,7 @@
 
 -	Technology;
 
-    •	Microsoft SQL Server, SPSS, Python, Microsoft Excel, Microsoft Powerpoint
+    *	Microsoft SQL Server, SPSS, Python, Microsoft Excel, Microsoft Powerpoint
     
 -	Database Desing
 
@@ -128,15 +128,15 @@
 
       *	Microsoft SQL Server
       
-      •	Visual Basic
+      *	Visual Basic
       
-•	Database Desing
+-	Database Desing
 
-•	DataWarehousin
+-	DataWarehousin
 
-•	C#
+-	C#
 
-•	Extract, Transform, Load (ETL)
+-	Extract, Transform, Load (ETL)
 
 
  ---
@@ -147,23 +147,23 @@
   01/12/2013–30/12/2014
   
 
-•	Database
+-	Database
 
-•	Technology;
+-	Technology;
 
--	Microsoft SQL Server
+      *	Microsoft SQL Server
 
--	Visual Basic
+      *	Visual Basic
 
-•	Database Desing
+-	Database Desing
 
-•	Data Warehousing
+-	Data Warehousing
 
-•	Database Development
+-	Database Development
 
-•	Extract, Transform, Load (ETL)
+-	Extract, Transform, Load (ETL)
 
-•	Database Administration
+-	Database Administration
 
 
 ---
@@ -194,35 +194,39 @@ Anadolu Üniversitesi, Eskişehir (Türkiye)
   
       BTK Academy  /  Issued Jan 2022
   
-      •	Creating a Dashboard
+      -	Creating a Dashboard
   
-      •	Connecting The Database
+      -	Connecting The Database
   
-      •	Creating Live Visual Content
+      -	Creating Live Visual Content
   
-      •	Power Query
+      -	Power Query
     
   
   -<b>AWS Certified Machine Learning Specialty</b>
   
       Sundog Education   /  Issued Jan 2022 
       
-      •	S3 Pucket (SQL Queries)
+      -	S3 Pucket (SQL Queries)
   
-      •	AWS Lambda (Run code without thinking about servers)
+      -	AWS Lambda (Run code without thinking about servers)
   
-      •	Amazon Athena (Query data in S3 using SQL)
+      -	Amazon Athena (Query data in S3 using SQL)
   
-      •	Amazon Kinesis( Analyze real-time video and data streams)
+      -	Amazon Kinesis( Analyze real-time video and data streams)
   
-      •	AWS Data Pipeline (Orchestration service for periodic, data-driven workflows) 
+      -	AWS Data Pipeline (Orchestration service for periodic, data-driven workflows) 
   
-      •	AWS Glue (Simple, scalable, and serverless data integration)
+      -	AWS Glue (Simple, scalable, and serverless data integration)
   
-      •	AWS Lake Formation (Build a secure data lake in days) 
+      -	AWS Lake Formation (Build a secure data lake in days) 
   
        
-        As a graduation project, I uploaded the data to the AWS Cloud and created the architecture here, then I did the ETL operations using Athena, then I connected this data lake with Python.  I visualized the data I got from here using the matplotlib library.  Then I uploaded this visual data back to the cloud.  I gave the necessary permissions from the AWS Identity and Access Management (IAM) portal so that all employees can see it, so that the people I want can see it.
+        As a graduation project, I uploaded the data to the AWS Cloud and created the architecture here, 
+then I did the ETL operations using Athena, then I connected this data lake with Python.  I visualized the 
+data I got from here using the matplotlib library.  Then I uploaded this visual data back to the cloud.
+I gave the necessary permissions from the AWS Identity and Access Management (IAM) portal so that all
+employees can see it, so that the people I want can see it.
 
   
   -<b>Python for Data Science </b>
@@ -254,6 +258,8 @@ Anadolu Üniversitesi, Eskişehir (Türkiye)
 
 <details>
   <summary>:zap: Language </summary>
+  
+  English B1
 
  
 
