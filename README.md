@@ -6,7 +6,7 @@
 
 ## Data Analist
 
-###I do my job by thinking of data as a living thing.  Because, approaching from a rational place is my feature that distinguishes me from other people.  I am excited to explore new methods and integrate them into the project I am working on.  Thinking about data for days and doing the architecture and analysis of it excites me.
+### I do my job by thinking of data as a living thing.  Because, approaching from a rational place is my feature that distinguishes me from other people.  I am excited to explore new methods and integrate them into the project I am working on.  Thinking about data for days and doing the architecture and analysis of it excites me.
 
 
 
@@ -37,17 +37,29 @@
 
   23/05/2022–Devam Ediyor
  •	Database
+ 
 •	Technology;
+
 -	Microsoft SQL Server
+
 -	PowerBI
+
 -	Python
+
 -	Microsoft Excel
+
 -	Microsoft Powerpoint
+
 •	Database Desing
+
 •	Visualizing Data with Python
+
 •	Extract, Transform, Load(ETL) with Python
+
 •	PowerBI Transformation
+
 •	Live Dashboard Creative
+
 
  ---
 
