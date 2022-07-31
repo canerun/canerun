@@ -15,6 +15,7 @@
 
 ### Competencies
 
+<img align="left" alt="Powerbi" width="36px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png](https://cdn-dhhph.nitrocdn.com/YwrWfrMMnPrQoiMcCnngShsqFHLItupA/assets/static/optimized/rev-9659ae8/wp-content/uploads/2016/08/maxresdefaultreduced.jpg)" />
 <img align="left" alt="Python" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="SPSS" width="70px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gvsu.edu%2Fcms4%2Fasset%2F4CE39E3F-BF40-0D23-0D675539A8F525E7%2Fhawdmoorm_x_1hy8mzgxqbwo45pfysz8u93t0pjjt0u.png&f=1&nofb=1" />
 <img align="left" alt="SQL" width="60px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.analyticsvidhya.com%2Fwp-content%2Fuploads%2F2020%2F06%2Fsql-logo.png&f=1&nofb=1" />
