@@ -29,7 +29,7 @@
 
 ---
 
-### <img align="left" alt="pc" width=25 src="https://github.githubassets.com/images/icons/emoji/unicode/23f1.png" /> İş Tecrübesi
+### <img align="left" alt="pc" width=25 src="https://github.githubassets.com/images/icons/emoji/unicode/23f1.png" /> Job Experience
 
 ### Data Analyst Specialist  
   Dem İlaç, İstanbul (Turkey)
@@ -100,12 +100,19 @@
   
   01/10/2018–15/01/2020	
   
+  
 •	Leadership
+
 •	Motivation
+
 •	Research Skills
+
 •	Strategic Planning Abilities
+
 •	Good People Skills
+
 •	Ability to Remain Calm Under Pressure
+
 
 ---
 ### Database Programmer
@@ -113,15 +120,24 @@
   
   
   11/09/2016–13/12/2018
+  
  
 •	Database
+
 •	Technology;
+
       -	Microsoft SQL Server
+      
       -	Visual Basic
+      
 •	Database Desing
+
 •	DataWarehousin
+
 •	C#
+
 •	Extract, Transform, Load (ETL)
+
 
  ---
 ### Database Programme
@@ -129,20 +145,30 @@
   
   
   01/12/2013–30/12/2014
+  
 
 •	Database
+
 •	Technology;
+
 -	Microsoft SQL Server
+
 -	Visual Basic
+
 •	Database Desing
+
 •	Data Warehousing
+
 •	Database Development
+
 •	Extract, Transform, Load (ETL)
+
 •	Database Administration
+
 
 ---
 
-### 📕 Eğitim
+### 📕 Education
 
 
 ### <img align="left" alt="pc" width=20 src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" /> Bilgisayar Programcılığı
@@ -163,27 +189,38 @@ Anadolu Üniversitesi, Eskişehir (Türkiye)
 ---
 
 <details>
-  <summary>:zap: Sentifikalar </summary>
+  <summary>:zap: Certificate </summary>
   -<b>Power BI </b>
   
       BTK Academy  /  Issued Jan 2022
+  
       •	Creating a Dashboard
+  
       •	Connecting The Database
+  
       •	Creating Live Visual Content
+  
       •	Power Query
-
+    
   
   -<b>AWS Certified Machine Learning Specialty</b>
   
       Sundog Education   /  Issued Jan 2022 
       
       •	S3 Pucket (SQL Queries)
+  
       •	AWS Lambda (Run code without thinking about servers)
+  
       •	Amazon Athena (Query data in S3 using SQL)
+  
       •	Amazon Kinesis( Analyze real-time video and data streams)
+  
       •	AWS Data Pipeline (Orchestration service for periodic, data-driven workflows) 
+  
       •	AWS Glue (Simple, scalable, and serverless data integration)
+  
       •	AWS Lake Formation (Build a secure data lake in days) 
+  
        
         As a graduation project, I uploaded the data to the AWS Cloud and created the architecture here, then I did the ETL operations using Athena, then I connected this data lake with Python.  I visualized the data I got from here using the matplotlib library.  Then I uploaded this visual data back to the cloud.  I gave the necessary permissions from the AWS Identity and Access Management (IAM) portal so that all employees can see it, so that the people I want can see it.
 
@@ -193,11 +230,15 @@ Anadolu Üniversitesi, Eskişehir (Türkiye)
       Udemy /  04/2021
       
       •	Matplotlip
+  
       •	Pandas
+  
       •	OpenCv
+  
       •	Pogo3
+  
       •	Tweepy
-
+  
   
   -<b>Ustazy English Grammar</b>
   
@@ -212,7 +253,7 @@ Anadolu Üniversitesi, Eskişehir (Türkiye)
 </details>
 
 <details>
-  <summary>:zap: Yabancı Dil </summary>
+  <summary>:zap: Language </summary>
 
  
 
