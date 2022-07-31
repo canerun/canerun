@@ -171,20 +171,15 @@
 ### 📕 Education
 
 
-### <img align="left" alt="pc" width=20 src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" /> Bilgisayar Programcılığı
-Akdeniz Üniversitesi, Antalya (Türkiye)
+### <img align="left" alt="pc" width=20 src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" /> Computer Programing
+Akdeniz Universty, Antalya (Turkey)
 
 09/2011–06/2013
 
-### <img align="left" alt="Stats" width=20 src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" />İstatistik
-Ankara Üniversitesi, Ankara (Türkiye)
+### <img align="left" alt="Stats" width=20 src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" />Statistic
+Ankara Universty, Ankara (Turkey)
 
 09/2014–07/2018	
-
-### <img align="left" alt="Stats" width=20 src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" /> Yönetim Bilişim Sistemleri
-Anadolu Üniversitesi, Eskişehir (Türkiye)
-
-09/2014–Devam ediyor
 
 ---
 
