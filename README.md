@@ -36,7 +36,7 @@
   Dem İlaç, İstanbul (Turkey)
   
 
-  23/05/2022–Devam Ediyor
+  23/05/2022–Present
   
 -	Database
  
