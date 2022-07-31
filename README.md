@@ -1,24 +1,19 @@
-# Merhaba, Ben Caner 👋 
+# Hello, Ben Caner 👋 
 <a href="mailto:cner.un@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/canerun"><img src="https://img.shields.io/badge/LinkedIn-%23DD0031.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white&color=blue"/></a>
 
 
 
-## Veri Analisti, Drama Eğitmeni ve Tiyatro Oyuncusuyum !!
+## Data Analist
 
-### Yetkinlikler
-- Liderlik ( Tiyatro Topluluğunda Başkanlığı)
-- Hızlı Çözüm Üretimi
-- Takım Yönetme Becerisi
-- Organizasyon becerisi
-- Topluluklara karşı hitap etme
+###I do my job by thinking of data as a living thing.  Because, approaching from a rational place is my feature that distinguishes me from other people.  I am excited to explore new methods and integrate them into the project I am working on.  Thinking about data for days and doing the architecture and analysis of it excites me.
 
 
 
 
 <br />
 
-### Yetenekler
+### Competencies
 
 <img align="left" alt="Python" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="SPSS" width="70px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gvsu.edu%2Fcms4%2Fasset%2F4CE39E3F-BF40-0D23-0D675539A8F525E7%2Fhawdmoorm_x_1hy8mzgxqbwo45pfysz8u93t0pjjt0u.png&f=1&nofb=1" />
@@ -36,51 +31,95 @@
 
 ### <img align="left" alt="pc" width=25 src="https://github.githubassets.com/images/icons/emoji/unicode/23f1.png" /> İş Tecrübesi
 
-### Veri Analist Uzmanı
-  Dem İlaç, İstanbul (Türkiye)
+### Data Analyst Specialist  
+  Dem İlaç, İstanbul (Turkey)
   
 
   23/05/2022–Devam Ediyor
- 
+ •	Database
+•	Technology;
+-	Microsoft SQL Server
+-	PowerBI
+-	Python
+-	Microsoft Excel
+-	Microsoft Powerpoint
+•	Database Desing
+•	Visualizing Data with Python
+•	Extract, Transform, Load(ETL) with Python
+•	PowerBI Transformation
+•	Live Dashboard Creative
+
  ---
 
-### Veri Analisti
-  Anka Danışma Grubu, İstanbul (Türkiye)
+### Data Analyst
+ Anka Advisory Group, İstanbul (Turkey)
   
 
   18/04/2021–01/02/2021
-  
+ 
+ •	Database
+•	Technology;
+    -	Microsoft SQL Server, SPSS, Python, Microsoft Excel, Microsoft Powerpoint
+•	Database Desing
+•	Visualizing Data with Python
+•	Extract, Transform, Load 
+(ETL) with Python
+•	Statistical Distributions
+•	Factor Analysis
+•	Word Clouds
+•	Extract, Transform, Load (ETL)
+•	Advisory
+
 ---
-### Proje Sorumlusu
-  TÜBİTAK Marmara Araştırma Merkezi, Kocaeli (Türkiye)
+### Project Specialist
+  Tubitak Martek - Freelance, Kocaeli (Turkey)
   
   
   01/10/2018–15/01/2020	
   
+•	Leadership
+•	Motivation
+•	Research Skills
+•	Strategic Planning Abilities
+•	Good People Skills
+•	Ability to Remain Calm Under Pressure
+
 ---
-### Veri Analisti
-  PiyonLab Yazılım, Kocaeli (Türkiye)
+### Database Programmer
+  PiyonLab Software, Kocaeli (Turkey)
   
   
   11/09/2016–13/12/2018
  
+•	Database
+•	Technology;
+      -	Microsoft SQL Server
+      -	Visual Basic
+•	Database Desing
+•	DataWarehousin
+•	C#
+•	Extract, Transform, Load (ETL)
+
  ---
-### Veri Tabanı Programcısı
-  Kardelen Yazılım, Kocaeli (Türkiye)
+### Database Programme
+  Kardelen Software, Kocaeli (Turkey)
   
   
   01/12/2013–30/12/2014
 
+•	Database
+•	Technology;
+-	Microsoft SQL Server
+-	Visual Basic
+•	Database Desing
+•	Data Warehousing
+•	Database Development
+•	Extract, Transform, Load (ETL)
+•	Database Administration
 
 ---
 
 ### 📕 Eğitim
-
-
-###  <img align="left" alt="pc" width=20 src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" /> Bilgisayar Programcılığı
-Çayırova Anadolu Ticaret Meslek Lisesi, Kocaeli (Türkiye)
-
-09/2007–06/2011 
 
 
 ### <img align="left" alt="pc" width=20 src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" /> Bilgisayar Programcılığı
@@ -102,22 +141,49 @@ Anadolu Üniversitesi, Eskişehir (Türkiye)
 
 <details>
   <summary>:zap: Sentifikalar </summary>
+  -<b>Power BI </b>
   
-  -<b>Veri Bilimi için Python</b>
+      BTK Academy  /  Issued Jan 2022
+      •	Creating a Dashboard
+      •	Connecting The Database
+      •	Creating Live Visual Content
+      •	Power Query
+
+  
+  -<b>AWS Certified Machine Learning Specialty</b>
+  
+      Sundog Education   /  Issued Jan 2022 
+      
+      •	S3 Pucket (SQL Queries)
+      •	AWS Lambda (Run code without thinking about servers)
+      •	Amazon Athena (Query data in S3 using SQL)
+      •	Amazon Kinesis( Analyze real-time video and data streams)
+      •	AWS Data Pipeline (Orchestration service for periodic, data-driven workflows) 
+      •	AWS Glue (Simple, scalable, and serverless data integration)
+      •	AWS Lake Formation (Build a secure data lake in days) 
+       
+        As a graduation project, I uploaded the data to the AWS Cloud and created the architecture here, then I did the ETL operations using Athena, then I connected this data lake with Python.  I visualized the data I got from here using the matplotlib library.  Then I uploaded this visual data back to the cloud.  I gave the necessary permissions from the AWS Identity and Access Management (IAM) portal so that all employees can see it, so that the people I want can see it.
+
+  
+  -<b>Python for Data Science </b>
   
       Udemy /  04/2021
+      
+      •	Matplotlip
+      •	Pandas
+      •	OpenCv
+      •	Pogo3
+      •	Tweepy
+
   
   -<b>Ustazy English Grammar</b>
   
       Udemy /   04/2021
   
-  -<b>Gönüllü Yaratıcı Drama Eğitmenliği Sentifikası</b>
+  -<b>Volunteer Creative Drama Instructor</b>
   
-      European Solidarity Corps for Youth (ESC4Y) / 04/2021
+      European Solidarity Corps for Youth (ESC4Y)– Issued Nov 2020 
 
-  -<b>Yaratıcı Drama Eğitmenliği 1-2-3-4-5 Aşama </b>
-  
-      Çağdaş Drama Derneği /  07/2021	
 
 
 </details>
