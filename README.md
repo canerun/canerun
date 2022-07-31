@@ -41,15 +41,15 @@
  
 -	Technology;
 
-•	Microsoft SQL Server
+      •	Microsoft SQL Server
 
-•	PowerBI
+      •	PowerBI
 
-•	Python
+      •	Python
 
-•	Microsoft Excel
+      •	Microsoft Excel
 
-•	Microsoft Powerpoint
+      •	Microsoft Powerpoint
 
 -	Database Desing
 
@@ -101,17 +101,17 @@
   01/10/2018–15/01/2020	
   
   
-•	Leadership
+-	Leadership
 
-•	Motivation
+-	Motivation
 
-•	Research Skills
+-	Research Skills
 
-•	Strategic Planning Abilities
+-	Strategic Planning Abilities
 
-•	Good People Skills
+-	Good People Skills
 
-•	Ability to Remain Calm Under Pressure
+-	Ability to Remain Calm Under Pressure
 
 
 ---
@@ -122,13 +122,13 @@
   11/09/2016–13/12/2018
   
  
-•	Database
+-	Database
 
-•	Technology;
+-	Technology;
 
-      -	Microsoft SQL Server
+      *	Microsoft SQL Server
       
-      -	Visual Basic
+      •	Visual Basic
       
 •	Database Desing
 
