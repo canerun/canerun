@@ -1,4 +1,4 @@
-# Hello, Ben Caner 👋 
+# Hello, I'm Caner 👋 
 <a href="mailto:cner.un@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/canerun"><img src="https://img.shields.io/badge/LinkedIn-%23DD0031.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white&color=blue"/></a>
 
@@ -36,29 +36,30 @@
   
 
   23/05/2022–Devam Ediyor
- •	Database
+  
+-	Database
  
-•	Technology;
+-	Technology;
 
--	Microsoft SQL Server
+•	Microsoft SQL Server
 
--	PowerBI
+•	PowerBI
 
--	Python
+•	Python
 
--	Microsoft Excel
+•	Microsoft Excel
 
--	Microsoft Powerpoint
+•	Microsoft Powerpoint
 
-•	Database Desing
+-	Database Desing
 
-•	Visualizing Data with Python
+-	Visualizing Data with Python
 
-•	Extract, Transform, Load(ETL) with Python
+-	Extract, Transform, Load(ETL) with Python
 
-•	PowerBI Transformation
+-	PowerBI Transformation
 
-•	Live Dashboard Creative
+-	Live Dashboard Creative
 
 
  ---
@@ -69,18 +70,28 @@
 
   18/04/2021–01/02/2021
  
- •	Database
-•	Technology;
-    -	Microsoft SQL Server, SPSS, Python, Microsoft Excel, Microsoft Powerpoint
-•	Database Desing
-•	Visualizing Data with Python
-•	Extract, Transform, Load 
-(ETL) with Python
-•	Statistical Distributions
-•	Factor Analysis
-•	Word Clouds
-•	Extract, Transform, Load (ETL)
-•	Advisory
+
+-	Database
+
+-	Technology;
+
+    •	Microsoft SQL Server, SPSS, Python, Microsoft Excel, Microsoft Powerpoint
+    
+-	Database Desing
+
+-	Visualizing Data with Python
+
+-	Extract, Transform, Load(ETL) with Python
+
+-	Statistical Distributions
+
+-	Factor Analysis
+
+-	Word Clouds
+
+-	Extract, Transform, Load (ETL)
+
+-	Advisory
 
 ---
 ### Project Specialist
