@@ -252,10 +252,7 @@ employees can see it, so that the people I want can see it.
 
 </details>
 
-<details>
-  <summary>:zap: Language </summary>
-  
-  English B1
+
 
  
 
