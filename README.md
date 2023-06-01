@@ -101,8 +101,8 @@
 -	Advisory
 
 ---
-  
- 
+</details>
+
  
 
 <details>
@@ -128,7 +128,7 @@
 
 -	Ability to Remain Calm Under Pressure
 
-  </details>
+</details>
 
 <details>
   <summary>:zap: SQL Developer  </summary>
@@ -159,7 +159,7 @@
 
  ---
   
-    </details>
+ </details>
 
 <details>
   <summary>:zap: SQL Developer  </summary>
@@ -192,7 +192,7 @@
 
 ---
 
-  </details>
+ </details>
   
     
 ### 📕 Education
