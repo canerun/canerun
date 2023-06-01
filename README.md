@@ -33,7 +33,7 @@
 ### <img align="left" alt="pc" width=25 src="https://github.githubassets.com/images/icons/emoji/unicode/23f1.png" /> Job Experience
 
 <details>
-  <summary> Data Analyst Specialist --  23/05/2022–Present </summary>
+  <summary>📚 Data Analyst Specialist --  23/05/2022–Present </summary>
   
 ### Data Analyst Specialist  
   Dem İlaç, İstanbul (Turkey)
@@ -70,7 +70,7 @@
 </details>
 
 <details>
-  <summary>:zap: Data Analyst --  18/04/2021–01/02/2021 </summary>
+  <summary>📚 Data Analyst --  18/04/2021–01/02/2021 </summary>
 ### Data Analyst
  Anka Advisory Group, İstanbul (Turkey)
   
@@ -106,7 +106,7 @@
  
 
 <details>
-  <summary>:zap: Project Specialist -- 01/10/2018–15/01/2020	 </summary>
+  <summary>📚 Project Specialist -- 01/10/2018–15/01/2020	 </summary>
   
   
 ### Project Specialist
@@ -131,7 +131,7 @@
 </details>
 
 <details>
-  <summary>:zap: SQL Developer --  11/09/2016–13/12/2018  </summary>
+  <summary>📚 SQL Developer --  11/09/2016–13/12/2018  </summary>
   
 ### SQL Developer
   PiyonLab Software, Kocaeli (Turkey)
@@ -162,7 +162,7 @@
  </details>
 
 <details>
-  <summary>:zap: SQL Developer  -- 01/12/2013–30/12/2014</summary>
+  <summary>📚 SQL Developer  -- 01/12/2013–30/12/2014</summary>
   
 ### SQL Developer
   Kardelen Software, Kocaeli (Turkey)
