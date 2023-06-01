@@ -32,6 +32,9 @@
 
 ### <img align="left" alt="pc" width=25 src="https://github.githubassets.com/images/icons/emoji/unicode/23f1.png" /> Job Experience
 
+<details>
+  <summary>:zap: Data Analyst Specialist  </summary>
+  
 ### Data Analyst Specialist  
   Dem İlaç, İstanbul (Turkey)
   
@@ -64,7 +67,10 @@
 
 
  ---
+</details>
 
+<details>
+  <summary>:zap: Data Analyst  </summary>
 ### Data Analyst
  Anka Advisory Group, İstanbul (Turkey)
   
@@ -95,6 +101,15 @@
 -	Advisory
 
 ---
+  
+  </details>
+  
+  </details>
+
+<details>
+  <summary>:zap: Project Specialist  </summary>
+  
+  
 ### Project Specialist
   Tubitak Martek - Freelance, Kocaeli (Turkey)
   
@@ -114,9 +129,12 @@
 
 -	Ability to Remain Calm Under Pressure
 
+  </details>
 
+<details>
+  <summary>:zap: SQL Developer  </summary>
 ---
-### Database Programmer
+### SQL Developer
   PiyonLab Software, Kocaeli (Turkey)
   
   
@@ -141,7 +159,13 @@
 
 
  ---
-### Database Programme
+  
+    </details>
+
+<details>
+  <summary>:zap: SQL Developer  </summary>
+  
+### SQL Developer
   Kardelen Software, Kocaeli (Turkey)
   
   
@@ -169,6 +193,8 @@
 
 ---
 
+    </details>
+    
 ### 📕 Education
 
 
