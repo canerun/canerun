@@ -33,7 +33,7 @@
 ### <img align="left" alt="pc" width=25 src="https://github.githubassets.com/images/icons/emoji/unicode/23f1.png" /> Job Experience
 
 <details>
-  <summary>:time: Data Analyst Specialist --  23/05/2022–Present </summary>
+  <summary> Data Analyst Specialist --  23/05/2022–Present </summary>
   
 ### Data Analyst Specialist  
   Dem İlaç, İstanbul (Turkey)
