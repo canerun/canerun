@@ -162,10 +162,10 @@
  </details>
 
 <details>
-  <summary>:zap: SQL Developer  </summary>
+  <summary>:zap: SQL Developer  -- 01/12/2013–30/12/2014</summary>
   
 ### SQL Developer
-  Kardelen Software, Kocaeli --  01/12/2013–30/12/2014(Turkey)
+  Kardelen Software, Kocaeli (Turkey)
   
   
   01/12/2013–30/12/2014
