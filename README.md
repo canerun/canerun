@@ -103,8 +103,7 @@
 ---
   
   </details>
-  
-  </details>
+ 
 
 <details>
   <summary>:zap: Project Specialist  </summary>
@@ -133,7 +132,7 @@
 
 <details>
   <summary>:zap: SQL Developer  </summary>
----
+  
 ### SQL Developer
   PiyonLab Software, Kocaeli (Turkey)
   
@@ -193,7 +192,8 @@
 
 ---
 
-    </details>
+  </details>
+  
     
 ### 📕 Education
 
