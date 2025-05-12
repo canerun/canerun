@@ -33,9 +33,9 @@
 ### <img align="left" alt="pc" width=25 src="https://github.githubassets.com/images/icons/emoji/unicode/23f1.png" /> Job Experience
 
 <details>
-  <summary>📚 Data Analyst Specialist --  22/04/2024–Present </summary>
+  <summary>📚 Business Analyst --  22/04/2024–Present </summary>
   
-### Data Analyst Specialist  
+### Business Analyst  
   Global Blue, İstanbul (Turkey)
   
 
