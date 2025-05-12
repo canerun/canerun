@@ -33,7 +33,46 @@
 ### <img align="left" alt="pc" width=25 src="https://github.githubassets.com/images/icons/emoji/unicode/23f1.png" /> Job Experience
 
 <details>
-  <summary>📚 Data Analyst Specialist --  23/05/2022–Present </summary>
+  <summary>📚 Data Analyst Specialist --  22/04/2024–Present </summary>
+  
+### Data Analyst Specialist  
+  Global Blue, İstanbul (Turkey)
+  
+
+  22/04/2024–Present
+  
+-	Database
+ 
+-	Technology;
+
+      *	Microsoft SQL Server 
+
+      *	PowerBI
+
+      *	Python
+
+      *	Microsoft Excel
+
+      *	Microsoft Powerpoint
+
+-	Develop interactive, real-time dashboards using Power BI to support data-driven decision-making.
+  
+- Perform data extraction, transformation (ETL), and visualization with Python.
+  
+- Prepare strategic reports and presentations using Excel and PowerPoint for business stakeholders.
+
+- Support data analysis through relational database queries and basic database design.
+
+- Simplify complex datasets into actionable insights and visual narratives.
+
+- Combine technical data tools with business analysis to enhance operational efficiency.
+
+
+ ---
+</details>
+
+<details>
+  <summary>📚 Data Analyst Specialist --  23/05/2022–05/04/2024 </summary>
   
 ### Data Analyst Specialist  
   Dem İlaç, İstanbul (Turkey)
